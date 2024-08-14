@@ -1,0 +1,39 @@
+Mobil uygulama geliştirme sürecime, YouTube'daki çeşitli rehberlerden yararlanarak başladım. İlk olarak, Chocolatey kullanarak Windows/Android platformunda React Native CLI Quickstart rehberini izleyerek React, Node.js ve JDK kurulumlarını gerçekleştirdim. Ancak, geliştirme sürecine hemen geçemedim çünkü bilgisayarımda ve kurulumlarda bazı sorunlarla karşılaştım. Bu sorunların, bilgisayarımda yaptığım yapılandırma ayarlarından kaynaklandığını tahmin ediyorum.
+
+Bu sorunları çözmek için bilgisayarımı formatlayarak temiz bir kurulum yaptım. Bu sayede, geliştirme ortamını kullanabilir hale geldim. Yine de bazı problemlerle karşılaşmaya devam ettim, ancak YouTube rehberlerinden yararlanarak bu sorunları aşmayı başardım ve sonunda geliştirme sürecine başladım.
+
+React Native geliştirme ortamına aşina olmadığım için, çeşitli rehberlerle genel bir temel oluşturmaya çalıştım. Pek çok videodan parçalar izleyerek kendimi geliştirdim. Expo kullanmamam gerektiğinden ve çoğu kaynağın sadece Expo üzerine odaklanması nedeniyle seçici olmam gerekti. Bu süreçte en çok FreeCodeCamp'in videolarından faydalandım.
+
+Ayrıca, React Native'nin kendi sağladığı kaynaklardan da yararlandım. 
+Özellikle
+https://reactnative.dev/docs/intro-react-native-components ve https://reactnative.dev/docs/components-and-apis
+sayfalarındaki kodları temel alarak gelişim sağladım ve bu kodları egzersiz olarak kullandım.
+
+
+Sayfayı tasarlarken genel bilgi eksikliğim ve geliştirme ortamına olan hakimiyetimin yetersizliği nedeniyle birçok problemle karşılaştım. Bu süreçte yardım aldığım bloglar ve sitelerden bazıları şunlardır:
+
+https://stackoverflow.com/questions/37414304/typescript-complains-property-does-not-exist-on-type-jsx-intrinsicelements-whe
+https://www.askvg.com/add-take-ownership-option-in-file-folder-context-menu-in-windows-vista/
+https://stackoverflow.com/questions/62790755/npx-react-native-init-awesomeproject-error-enolocal
+https://stackoverflow.com/questions/17990647/npm-install-errors-with-error-enoent-chmod
+https://stackoverflow.com/questions/20753550/error-message-enoent-no-such-file-or-directory
+https://answers.microsoft.com/en-us/windows/forum/all/you-require-permission-from-administrators-to-make/00ead2da-a0b3-4ccf-b087-6c5199d9e863
+https://stackoverflow.com/questions/37414304/typescript-complains-property-does-not-exist-on-type-jsx-intrinsicelements-whe
+https://stackoverflow.com/questions/55441230/unable-to-load-script-make-sure-you-are-either-running-a-metro-server-or-that-yo
+
+Ayrıca, proje boyunca kod düzenleme, temiz kod haline getirme, syntax hatalarını giderme ve genel sorunları çözme konularında ChatGPT'den de destek aldım
+
+Web sayfasında da benzer bir süreç yaşanmasa da, özellikle kurulum aşaması çok daha basit geldi; bu belki de önceki uygulamada Node ve konsol kullanma aşinalığımdan kaynaklanıyor olabilir. Ayrıca, önceden sahip olduğum bilgiler, web tasarımını daha hızlı yapmamı sağladı. Bunun yanı sıra, bilmediğim ve kullanmam gereken pek çok element ve özelliği rehberler ve bloglardan öğrendim.
+
+Vue.js rehberliğimin büyük kısmını YouTube'dan sağlamakla birlikte, ayrıca yararlandığım bazı kaynaklar da şunlardır:
+
+https://vuejs.org/tutorial/#step-9
+https://vuejs.org/guide/essentials/template-syntax.html
+https://stackoverflow.com/questions/63186747/unable-to-align-sidebar-and-it-contents-in-element-ui-in-vue-js
+https://bootstrap-vue.org/docs/components/sidebar
+https://stackoverflow.com/questions/64073162/how-to-display-an-avatar-thumbnail-picture-after-uploading-it-in-vue-js-element
+https://stackoverflow.com/questions/50911871/vue-js-vuetify-css3-cannot-align-vertically-a-span-element-with-the-middle-of-a
+
+
+
+Web sayfası geliştirme sürecimde de ChatGPT'den yararlandım; özellikle mock data oluşturma konusunda iyi bir kaynak oldu.

@@ -1,0 +1,18 @@
+{
+    "posts": [
+      { "id": 1, "author": "Ahmet Yıldız Kenter", "role": "Medical Doctor", "content": "Normal healthy 21 y/o patient...", "time": "2 min", "image": "https://via.placeholder.com/500x300", "avatar": "https://via.placeholder.com/50" },
+      { "id": 2, "author": "Derya Deniz", "role": "Mother", "content": "The mom said she struggled...", "time": "2 min", "image": "https://via.placeholder.com/500x300", "avatar": "https://via.placeholder.com/50" }
+    ],
+    "sidebarItems": [
+      { "id": 1, "title": "Hiking in mountains...", "image": "https://via.placeholder.com/100x100" },
+      { "id": 2, "title": "Yoga programs for early pregnants...", "image": "https://via.placeholder.com/100x100" }
+    ],
+    "users": [
+      { "id": 1, "name": "Ahmet Yılmaz", "location": "İzmir", "avatar": "https://via.placeholder.com/50" },
+      { "id": 2, "name": "Melike Kadıoğlu", "location": "İstanbul", "avatar": "https://via.placeholder.com/50" },
+      { "id": 3, "name": "Ayşe Yıldırım", "location": "Isparta", "avatar": "https://via.placeholder.com/50" },
+      { "id": 4, "name": "Mehmet Yılmaz", "location": "Ankara", "avatar": "https://via.placeholder.com/50" },
+      { "id": 5, "name": "Fatma Deniz", "location": "Antalya", "avatar": "https://via.placeholder.com/50" }
+    ]
+  }
+  
